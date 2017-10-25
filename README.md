@@ -7,7 +7,8 @@
 ## 环境准备
 一、安装node.js,  https://nodejs.org/en/download/ ,    下载相应版本
    如图安装成功
-<img src="https://github.com/hhc1177/vue-element-demo/tree/master/other/node.png"/> 
+
+   ![](https://github.com/hhc1177/vue-element-demo/tree/master/other/node.png)
 
 
 二、安装cnpm，node.js 淘宝镜像服务器，解决下载慢问题

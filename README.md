@@ -7,7 +7,7 @@
 ## 环境准备
 一、安装node.js,  https://nodejs.org/en/download/ ,    下载相应版本
    如图安装成功
-   <img src="../other/node安装.png"> 
+   <img src="https://github.com/hhc1177/vue-element-demo/tree/master/other/node安装.png"> 
 
 二、安装cnpm，node.js 淘宝镜像服务器，解决下载慢问题
 ```
@@ -27,7 +27,7 @@ vue --version
 
 四、试试新建一个Vue项目
 （1）新建一个项目文件夹，命名为 vue-demo，cd到此文件夹，输入:vue init webpack vue-demo，回车，按照如下操作进行初始化：
-   <img src="../other/vue项目新建.png"> 
+   <img src="https://github.com/hhc1177/vue-element-demo/tree/master/other/vue项目新建.png"> 
 
 我们暂时不适用模板提供的测试框架，Karma + Mocha，以及Nightwatch。
 
@@ -52,6 +52,9 @@ vue2 +  vue-router + webpack + element-ui
 ( vuex + ES6/7 + less )暂未引进，后续将用到
 
 
+
+
+##
 
 ##---------------------------系统自带说明---------------------------------------------------------
 ``` bash 
